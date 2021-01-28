@@ -1,0 +1,6 @@
+[local_file_path]
+model_path = trained_model
+
+[local_file_name]
+close_price_predictor_model = close_price_10_10.pickle
+sma_predictor_model = sma_sbi_10_10.pickle
